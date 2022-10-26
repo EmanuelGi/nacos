@@ -721,7 +721,7 @@
     </logger>
     
     <logger name="com.alibaba.nacos.k8s.sync.main" additivity="false">
-        <level value="DEBUG"/>
+        <level value="INFO"/>
         <appender-ref ref="k8s-sync-main"/>
     </logger>
 
